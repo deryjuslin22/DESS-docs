@@ -1,6 +1,6 @@
 # DESS IT
 
-Ce dépôt suit les cours du Diplôme d'Études Supérieures Spécialisées (DESS) en Informatique, fruit d'un partenariat stratégique entre la **Banque de la République d’Haïti (BRH)** et l'**UNITECH**. L'objectif est de former des spécialistes haïtiens en IT grâce à l'expertise conjointe d'intervenants internationaux et locaux.
+Ce dépôt suit les cours du Diplôme d'Études Supérieures Spécialisées (DESS) en Informatique concentration Administration de Base de Données, fruit d'un partenariat stratégique entre la **Banque de la République d’Haïti (BRH)** et l'**Université de Technologie d’Haïti (UNITECH)**. L'objectif est de former des spécialistes haïtiens en IT grâce à l'expertise conjointe d'intervenants internationaux et locaux.
 
 ---
 
@@ -28,6 +28,12 @@ Le programme est découpé en **5 sessions**. Chaque session regroupe plusieurs 
 * Gestion de Projets Informatiques
 * Gestion des Risques Informatiques
 * Sécurité des Systèmes Informatiques
+
+### Session 2 (9 juin – xxx)
+
+* Audit des Systèmes d'Information
+* Gouvernance des Technologies de l'Information
+* Virtualisation et Cloud Computing
 
 
 
